@@ -51,19 +51,19 @@ npm run build
 
 ## 📝 示例
 
+**输入**:
 ```json
-// 输入
 {
   "name": "张三",
-  "city": "北京",
-  "description": "软件工程师"
+  "city": "北京"
 }
+```
 
-// 输出 (英文)
+**输出**:
+```json
 {
   "name": "Zhang San",
-  "city": "Beijing",
-  "description": "Software Engineer"
+  "city": "Beijing"
 }
 ```
 
